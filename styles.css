@@ -4,7 +4,7 @@ body{
 
 
 html { 
-  background: url(maxresdefault.jpg) no-repeat center center fixed; 
+  background: url(http://www.vdgh.ca/wp-content/uploads/2015/09/Silver-Blur-Background.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -32,6 +32,15 @@ html {
 	color: #0033FF;
 
 }
+.heading1{
+	border: solid 1px black;
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	text-align: center;
+	color: #0033FF;
+}
+
 
 .body{
 	border: solid 1px black;
