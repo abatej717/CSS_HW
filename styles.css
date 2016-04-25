@@ -1,0 +1,99 @@
+body{
+	background:
+}
+
+
+html { 
+  background: url(maxresdefault.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container{
+	border: solid 1px black;
+	width: 1024px;
+	margin: 0 auto;
+	text-align: center;
+	color: red;
+	font-family: serif;
+	font-size: 35px;
+	
+
+}
+
+.heading{
+	border: solid 1px black;
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	text-align: left;
+	color: #0033FF;
+
+}
+
+.body{
+	border: solid 1px black;
+	width: 1024px;
+	margin: 0 auto;
+	text-align: center;
+	color: #990099;
+	font-family: sans-serif;
+}
+
+img{
+	width: 10%;
+}
+
+.likes{
+	border: solid 1px black;
+	width: 200x;
+	height: 180px;
+	margin: 0 auto;
+	float: right;
+	text-align: left;
+	color: #33CC00;
+	
+}
+
+.list{
+	list-style: none;
+	text-align: center;
+	font-weight: bold;
+}
+
+.travel{
+	border: solid 1px black;
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	float: left;
+	text-align: left;
+	color: #FF0066;
+}
+
+.places{
+	list-style: none;
+	text-align: left;
+	
+}
+
+.box{
+	text-align: center;
+	float: center;
+	position: relative;
+	top: 250px;
+	left: 400px;
+	width: 200px;
+	height: 200px;
+	color: orange;
+
+}
+
+
+
+
+
+
+
